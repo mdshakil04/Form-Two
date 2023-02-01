@@ -1,0 +1,18 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.form-container{
+    background: linear-gradient(to right, #282e2e, rgb(43, 7, 26));
+    display: flex;
+    justify-content: center;
+}
+.form-body{
+    background-color: whitesmoke;
+    width: 600px;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-radius: 10px;
+}
